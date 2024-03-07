@@ -45,7 +45,7 @@
 
 ***
 
-![simyechan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinbla78&theme=omni&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sinbla78&theme=omni&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinbla78&layout=compact&theme=omni)
 
